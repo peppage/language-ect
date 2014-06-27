@@ -1,0 +1,10 @@
+{
+  "name": "language-ect",
+  "version": "0.0.0",
+  "description": "ECT JS language support in Atom",
+  "repository": "https://github.com/peppage/language-ect",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
